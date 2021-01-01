@@ -3,7 +3,7 @@ For course csce 491
 
 The best 2 models:
 
-model 5. model structure built by myself: (might have higher false negative rate, but low false positive rate)
+model 5.modified version of model 4: (might have higher false negative rate, but low false positive rate)
 model5.json + weight5.h5
 
 model 4. Built by Ezgi Akcora:
@@ -11,7 +11,7 @@ model4.json, model4.h5
 
 Model that is no longer using:
 
-model 3. Model structure using facial landmarks,built by myself, (higher false positive rate)
+model 3. modified version of model 4, (higher false positive rate)
 model3.json, weight3.h5
 
 model 2.Model that uses convolutional blocks and HOG
