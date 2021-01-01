@@ -4,15 +4,15 @@ For course csce 491
 The best 2 models:
 
 model 5. model structure built by myself: (might have higher false negative rate, but low false positive rate)
-mstruc.json + mweights.h5
+model5.json + weight5.h5
 
 model 4. Built by Ezgi Akcora:
-model.json, weights.h5
+model4.json, model4.h5
 
 Model that is no longer using:
 
 model 3. Model structure using facial landmarks,built by myself, (higher false positive rate)
-mstru-14.json, mweights-14.h5
+model3.json, weight3.h5
 
 model 2.Model that uses convolutional blocks and HOG
 (h5 file and json file not put in the repo, avoid causing confusions)
