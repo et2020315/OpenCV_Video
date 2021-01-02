@@ -36,7 +36,7 @@ Collecting links from YouTube 8M Open data set:
 
 Provide a text file that contains the links that you scraped. If you don't have any text file that contains the links, you can got to http://research.google.com/youtube8m/explore.html and collect the html and use scrapeLinks.ipynb to collect the links from html files.
 
-4. 
+4. Chnage the path in cell 3, retry_download_pytube(), retry_download_youtubedl(),delete_downloaded_videos(),delete_angry_videos(), set_folder(), write_to_folder(), set_video_output(), set_video_output2(), img_to_video(), main() to the proper location (where your corresponding file located)
 
 5. Run Video-useModelWriteVideo2.ipynb on Google CodeLab
 
